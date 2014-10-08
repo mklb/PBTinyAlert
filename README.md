@@ -5,9 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/PBTinyAlert.svg?style=flat)](http://cocoadocs.org/docsets/PBTinyAlert)
 [![Platform](https://img.shields.io/cocoapods/p/PBTinyAlert.svg?style=flat)](http://cocoadocs.org/docsets/PBTinyAlert)
 
+PBTinyAlert is a tiny, lightweight and customizable notification view for your IOS portrait App. It uses the [Facebook Pop Framework][pop] for fluid and fancy animations.
+
 ## Usage
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+To run the example project, clone the repo, and run `pod install` from the Example directory first. If you want customize more, copy the source code files directly into your project.
 
 ![PBTinyAlert Demo Gif](https://raw.githubusercontent.com/mklb/PBTinyAlert/master/PBTinyAlert.gif)
 
@@ -54,4 +56,6 @@ mklb, hallo@by-maikel.com
 ## License
 
 PBTinyAlert is available under the MIT license. See the LICENSE file for more info.
+
+[pop]: https://github.com/facebook/POP
 
