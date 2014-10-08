@@ -9,7 +9,7 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-![PBTinyAlert Demo Gif](https://github.com/mklb/PBTinyAlert/PBTinyAlert.gif)
+![PBTinyAlert Demo Gif](https://raw.githubusercontent.com/mklb/PBTinyAlert/master/PBTinyAlert.gif)
 
 ## Example
 It´s easy as pie:

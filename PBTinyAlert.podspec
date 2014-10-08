@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "A short description of PBTinyAlert."
   s.homepage         = "https://github.com/mklb/PBTinyAlert"
-  s.screenshots     = "https://github.com/mklb/PBTinyAlert/PBTinyAlert.gif"
+  s.screenshots     = "https://raw.githubusercontent.com/mklb/PBTinyAlert/master/PBTinyAlert.gif"
   s.license          = 'MIT'
   s.author           = { "Patrick Bläsing" => "hallo@by-maikel.com" }
   s.source           = { :git => "https://github.com/mklb/PBTinyAlert.git", :tag => s.version.to_s }
