@@ -49,10 +49,6 @@ it, simply add the following line to your Podfile:
 - You need include AudioToolbox to your project
 - Facebook Pop Framework is already included as a dependency
 
-## Author
-
-mklb, hallo@by-maikel.com
-
 ## License
 
 PBTinyAlert is available under the MIT license. See the LICENSE file for more info.
