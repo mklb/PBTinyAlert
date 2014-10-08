@@ -10,7 +10,7 @@
 Pod::Spec.new do |s|
   s.name             = "PBTinyAlert"
   s.version          = "0.1.0"
-  s.summary          = "A short description of PBTinyAlert."
+  s.summary          = "PBTinyAlert is a tiny, lightweight and customizable notification view for your IOS portrait App"
   s.homepage         = "https://github.com/mklb/PBTinyAlert"
   s.screenshots     = "https://raw.githubusercontent.com/mklb/PBTinyAlert/master/PBTinyAlert.gif"
   s.license          = 'MIT'

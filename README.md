@@ -14,7 +14,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## Example
 It´s easy as pie:
 
-```
+```objective-c
 PBTinyAlert *myAlert = [PBTinyAlert withTitle:@"Try again"
                                       Message:@"Super swift message"
                               BackgroundColor:nil
@@ -26,7 +26,7 @@ PBTinyAlert *myAlert = [PBTinyAlert withTitle:@"Try again"
 ## PBTinyAlert methods
 All methods should be speak for themselfes
 
-```
+```objective-c
 -(void)show;
 -(void)showWithVibration;
 -(void)showAndHideIn:(float)seconds;
