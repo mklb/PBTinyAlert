@@ -1,0 +1,1 @@
+PODS_PBTINYALERT_PBTINYALERT_OTHER_LDFLAGS = -framework "AudioToolbox"

@@ -1,0 +1,18 @@
+PODS:
+  - PBTinyAlert (0.1.0):
+    - pop (~> 1.0)
+  - pop (1.0.7)
+
+DEPENDENCIES:
+  - PBTinyAlert (from `../`)
+  - pop (~> 1.0)
+
+EXTERNAL SOURCES:
+  PBTinyAlert:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PBTinyAlert: 821b76336df396a1cffa74a9b1f4665d15b32734
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+
+COCOAPODS: 0.34.1
