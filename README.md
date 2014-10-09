@@ -5,16 +5,19 @@
 [![License](https://img.shields.io/cocoapods/l/PBTinyAlert.svg?style=flat)](http://cocoadocs.org/docsets/PBTinyAlert)
 [![Platform](https://img.shields.io/cocoapods/p/PBTinyAlert.svg?style=flat)](http://cocoadocs.org/docsets/PBTinyAlert)
 
-PBTinyAlert is a tiny, lightweight and customizable notification view for your IOS portrait App. It uses the [Facebook Pop Framework][pop] for fluid and fancy animations.
+PBTinyAlert is a tiny, lightweight, and customizable notification view for your iOS portrait app. It uses the [Facebook Pop Framework][pop] for fluid and fancy animations.
 
-## Usage
+  [pop]: https://github.com/facebook/POP
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first. If you want customize more, copy the source code files directly into your project.
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first. If you want to customize, copy the source files directly into your project.
 
 ![PBTinyAlert Demo Gif](https://raw.githubusercontent.com/mklb/PBTinyAlert/master/PBTinyAlert.gif)
 
-## Example
-It´s easy as pie:
+## Usage
+
+It’s easy as pie:
 
 ```objective-c
 PBTinyAlert *myAlert = [PBTinyAlert withTitle:@"Try again"
@@ -26,7 +29,8 @@ PBTinyAlert *myAlert = [PBTinyAlert withTitle:@"Try again"
 ```
 
 ## PBTinyAlert methods
-All methods should be speak for themselfes
+
+All method names should speak for themselves:
 
 ```objective-c
 -(void)show;
@@ -41,17 +45,15 @@ All methods should be speak for themselfes
 ## Installation
 
 PBTinyAlert is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+it, simply add the following line to your `Podfile`:
 
     pod "PBTinyAlert"
 
 ## Setup
-- You need include AudioToolbox to your project
-- Facebook Pop Framework is already included as a dependency
+
+- You need include `AudioToolbox` in your project
+- Facebook Pop is already included as a dependency
 
 ## License
 
 PBTinyAlert is available under the MIT license. See the LICENSE file for more info.
-
-[pop]: https://github.com/facebook/POP
-
