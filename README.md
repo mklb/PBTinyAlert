@@ -26,7 +26,10 @@ PBTinyAlert *myAlert = [PBTinyAlert withTitle:@"Try again"
                                     TextColor:nil
                                        Effect:PBFillEffect];
 [myAlert showAndHideIn:3.f];
+
+// Protip: PBBounceEffect looks nice too!
 ```
+
 
 ## PBTinyAlert methods
 
@@ -40,6 +43,9 @@ All method names should speak for themselves:
 -(void)hide;
 -(void)vibrate;
 ```
+
+
+
 
 
 ## Installation
